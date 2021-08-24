@@ -1,0 +1,6 @@
+.Header {
+    grid-area: h;
+    background-color: rgb(47 59 67);
+    color: white;;
+    padding-left: 20px;
+}

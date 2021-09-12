@@ -2,7 +2,6 @@ import {rerenderEntireTree} from "../render";
 
 let state = {
     profilePage: {
-
         posts: [
             {id: 0, post: 'йо', likesCount: '00'},
             {id: 1, post: 'Привет', likesCount: '11'},
